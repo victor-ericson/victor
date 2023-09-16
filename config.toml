@@ -24,12 +24,6 @@ name = "thoughts"
 weight = 0
 url = "thoughts"
 
-contentDir = "content"
-
-[contentDir]
-    [contentDir.thoughts]
-        publishDir = "thoughts"
-
 [params]
 author = "Victor Ericson"
 user = "Victor Ericson"
