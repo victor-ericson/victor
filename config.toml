@@ -1,6 +1,6 @@
 baseURL = 'localhost:1313'
 languageCode = 'en-us'
-theme = "custom"
+# theme = "custom"
 
 [menu]
 [[menu.header]]
