@@ -1,2 +1,2 @@
 # victor
-https://victor-ericson.github.io/victor/
+https://victor-ericson.github.io/
