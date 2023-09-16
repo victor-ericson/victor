@@ -4,37 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbf456d0-7907-4e9d-a558-8ca42fb48965" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/custom/layouts/partials/favicon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/assets/sass/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/assets/sass/_global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/assets/sass/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/assets/sass/components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/assets/sass/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/assets/sass/components/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/assets/sass/utils/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/assets/sass/utils/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/assets/sass/utils/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/assets/sass/utils/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/config.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/post/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/post/emoji-support.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/post/markdown-syntax.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/post/math-typesetting.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/post/placeholder-text.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/content/post/rich-content.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/exampleSite/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/archetypes/blogpost.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/images/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/images/screenshot_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/images/tn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/layouts/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/layouts/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/layouts/partials/custom-head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/layouts/partials/custom-head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/layouts/partials/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/layouts/partials/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/layouts/partials/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/custom/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/custom/theme.toml" afterDir="false" />
+    <list default="true" id="dbf456d0-7907-4e9d-a558-8ca42fb48965" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/themes/custom" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +40,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -80,6 +51,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
