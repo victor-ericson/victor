@@ -1,0 +1,49 @@
+baseURL = 'localhost:1313'
+languageCode = 'en-us'
+theme = "custom"
+
+[menu]
+[[menu.header]]
+name = "about"
+weight = 0
+url = "about"
+[[menu.header]]
+name = "projects"
+weight = 0
+url = "projects"
+[[menu.header]]
+name = "work"
+weight = 0
+url = "work"
+[[menu.header]]
+name = "education"
+weight = 0
+url = "education"
+[[menu.header]]
+name = "thoughts"
+weight = 0
+url = "thoughts"
+
+
+[contentDir]
+    [contentDir.thoughts]
+        publishDir = "thoughts"
+
+[params]
+author = "Victor Ericson"
+user = "Victor Ericson"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/victorviking"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/victor-ericson-550700200/"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:victorericsons@gmail.com"
