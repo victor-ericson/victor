@@ -24,6 +24,7 @@ name = "thoughts"
 weight = 0
 url = "thoughts"
 
+contentDir = "content"
 
 [contentDir]
     [contentDir.thoughts]
