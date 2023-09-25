@@ -17,4 +17,9 @@ Current project stack:
 * React
 
 # [Carspotter](https://github.com/lundellstef/Carspotter){:class="custom-link"}
-* As part of a course in software engineering, a group of students and I developed an app for car spotters in Stockholm. Created in Flutter together with Firebase. Also used the Plate Recognizer API to help us retrieve car information and blur license plates.
+As part of a course in software engineering, a group of students and I developed an app for car spotters in Stockholm. Created in Flutter together with Firebase. Also used the Plate Recognizer API to help us retrieve car information and blur license plates.
+
+Technologies used:
+* Dart (Flutter)
+* Firebase
+* Google Maps API
