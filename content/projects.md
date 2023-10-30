@@ -10,13 +10,10 @@ Currently working on setting up an Asset Management website to help me better un
 
 Current project stack:
 * Go (GORM, Gin)
-* SQLite
-* Docker
-* Kubernetes
-* Terraform
+* Postgres
 * React
 
-# [Carspotter](https://github.com/lundellstef/Carspotter){:class="custom-link"}
+# [Carspotter]
 As part of a course in software engineering, a group of students and I developed an app for car spotters in Stockholm. Created in Flutter together with Firebase. Also used the Plate Recognizer API to help us retrieve car information and blur license plates.
 
 Technologies used:
